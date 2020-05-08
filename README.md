@@ -1,5 +1,7 @@
 ## Github Workflows
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be6526018f2c4bd2889974d1f7a013b1)](https://app.codacy.com/manual/StackNeverFlow/GitHub-Workflows?utm_source=github.com&utm_medium=referral&utm_content=StackNeverFlow/GitHub-Workflows&utm_campaign=Badge_Grade_Settings)
+
 Foobar is a Python library for dealing with word pluralization.
 
 ### Installation & Usage
